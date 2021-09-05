@@ -1,0 +1,16 @@
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\Projeto1.exe
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\Projeto1.deps.json
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\Projeto1.runtimeconfig.json
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\Projeto1.runtimeconfig.dev.json
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\Projeto1.dll
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\ref\Projeto1.dll
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\bin\Debug\net5.0\Projeto1.pdb
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.csproj.AssemblyReference.cache
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.AssemblyInfo.cs
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.dll
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\ref\Projeto1.dll
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.pdb
+C:\Users\joseh\OneDrive\Área de Trabalho\SENAC ADS 2021.2\CODING\aulas\Exercicios\Projeto1\obj\Debug\net5.0\Projeto1.genruntimeconfig.cache
